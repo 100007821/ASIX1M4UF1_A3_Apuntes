@@ -36,3 +36,10 @@ Este texto esta en **_cursiva y negrita_**.
 </html>
 ```
 [Esto es un enlace](http://joan23.fje.edu "enlace a la web del cole")
+
+|Primera Col.| Segunda Col.|3 Col|
+|---------------|:----------:|---------:|
+|Col 2 es|Centrada|35€|
+|Col 3 es|Derecha|134€|
+|Estilo cebra|gris|blanco
+|Clase|ASIX1|M4|
